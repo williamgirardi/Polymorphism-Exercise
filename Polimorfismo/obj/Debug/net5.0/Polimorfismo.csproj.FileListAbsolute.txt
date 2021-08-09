@@ -1,0 +1,16 @@
+C:\Projetos\ws-vs2019\Polimorfismo\Polimorfismo\obj\Debug\net5.0\Polimorfismo.csprojAssemblyReference.cache
+C:\Projetos\ws-vs2019\Polimorfismo\Polimorfismo\obj\Debug\net5.0\Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ws-vs2019\Polimorfismo\Polimorfismo\obj\Debug\net5.0\Polimorfismo.AssemblyInfoInputs.cache
+C:\Projetos\ws-vs2019\Polimorfismo\Polimorfismo\obj\Debug\net5.0\Polimorfismo.AssemblyInfo.cs
+C:\Projetos\ws-vs2019\Polimorfismo\Polimorfismo\obj\Debug\net5.0\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Projetos\ws-vs2019\Polimorfismo\Polimorfismo\bin\Debug\net5.0\Polimorfismo.exe
+C:\Projetos\ws-vs2019\Polimorfismo\Polimorfismo\bin\Debug\net5.0\Polimorfismo.deps.json
+C:\Projetos\ws-vs2019\Polimorfismo\Polimorfismo\bin\Debug\net5.0\Polimorfismo.runtimeconfig.json
+C:\Projetos\ws-vs2019\Polimorfismo\Polimorfismo\bin\Debug\net5.0\Polimorfismo.runtimeconfig.dev.json
+C:\Projetos\ws-vs2019\Polimorfismo\Polimorfismo\bin\Debug\net5.0\Polimorfismo.dll
+C:\Projetos\ws-vs2019\Polimorfismo\Polimorfismo\bin\Debug\net5.0\ref\Polimorfismo.dll
+C:\Projetos\ws-vs2019\Polimorfismo\Polimorfismo\bin\Debug\net5.0\Polimorfismo.pdb
+C:\Projetos\ws-vs2019\Polimorfismo\Polimorfismo\obj\Debug\net5.0\Polimorfismo.dll
+C:\Projetos\ws-vs2019\Polimorfismo\Polimorfismo\obj\Debug\net5.0\ref\Polimorfismo.dll
+C:\Projetos\ws-vs2019\Polimorfismo\Polimorfismo\obj\Debug\net5.0\Polimorfismo.pdb
+C:\Projetos\ws-vs2019\Polimorfismo\Polimorfismo\obj\Debug\net5.0\Polimorfismo.genruntimeconfig.cache
